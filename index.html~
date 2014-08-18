@@ -21,9 +21,7 @@
   <body> 
     <!-- top wrapper -->  
     <div id="topWrapper"> 
-      <div id="topBanner">
-	<a href="./index.html"><img src="./images/css/transparent.png"></a>
-	</div> 
+      <div id="topBanner"></div> 
     </div>  
     <div id="topnav"> 
       <ul>

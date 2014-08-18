@@ -2,7 +2,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
   <head>
-    <title>PLAN Signup - LoL</title>
+    <title>PLAN Signup - CSGO</title>
 	<link rel="shortcut icon" type="image/png" href="./images/icon.ico" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="title" content="Web site" />
@@ -21,9 +21,7 @@
   <body> 
     <!-- top wrapper -->  
     <div id="topWrapper"> 
-      <div id="topBanner">
-	<a href="./index.html"><img src="./images/css/transparent.png"></a>
-	</div> 
+      <div id="topBanner"></div> 
     </div>  
     <div id="topnav"> 
       <ul>
@@ -51,7 +49,7 @@
           <div style="margin-top:20px;"> 
             <div class="clear"></div>  
             <div> 
-				<iframe src="https://docs.google.com/forms/d/1dyt4JmsPFAYAZkqT_d0Qe7PysAffL-PHQVWBdqaRmos/viewform?embedded=true" width="917" height="777" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+				<iframe src="https://docs.google.com/forms/d/10dxKrDmujioGwWXsxZ7jZ2pEcXQQwfE9adLfdCXz644/viewform?embedded=true" width="917" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
             </div> 
           </div>  
           <div class="clear"></div> 

@@ -2,7 +2,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
   <head>
-    <title>PLAN Signup - LoL</title>
+    <title>PLAN XXI - Contact</title>
 	<link rel="shortcut icon" type="image/png" href="./images/icon.ico" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="title" content="Web site" />
@@ -21,9 +21,7 @@
   <body> 
     <!-- top wrapper -->  
     <div id="topWrapper"> 
-      <div id="topBanner">
-	<a href="./index.html"><img src="./images/css/transparent.png"></a>
-	</div> 
+      <div id="topBanner"></div> 
     </div>  
     <div id="topnav"> 
       <ul>
@@ -33,12 +31,12 @@
         <li>
           <a href="./about.html" shape="rect">About</a>
         </li>
-        <li  id="current" style="border:none">
+        <li>
           <a href="./signup.html" shape="rect">Signup</a>
         </li>
 		<li>
 		  <a href="./events.html" shape="rect">Events</a>
-        <li>
+        <li  id="current" style="border:none">
           <a href="./contact.html" shape="rect">Contact</a>
         </li>
       </ul> 
@@ -51,7 +49,10 @@
           <div style="margin-top:20px;"> 
             <div class="clear"></div>  
             <div> 
-				<iframe src="https://docs.google.com/forms/d/1dyt4JmsPFAYAZkqT_d0Qe7PysAffL-PHQVWBdqaRmos/viewform?embedded=true" width="917" height="777" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+              <h1>Contact Us</h1>  
+              <p><a href="mailto:cclub@ccowmu.org" shape="rect">Click Here to Email Us at: cclub@ccowmu.org.</a></p>
+			  <p>Or Visit Us in: Room 2244, Kohrman Hall</p>
+			  <iframe width="920" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=kohrman+western+michigna+&amp;aq=&amp;sll=45.00109,-86.270553&amp;sspn=8.328413,4.438477&amp;ie=UTF8&amp;hq=&amp;hnear=Kohrman,+Kalamazoo,+Michigan+49006&amp;ll=42.280583,-85.617709&amp;spn=0.009891,0.021136&amp;t=m&amp;z=14&amp;output=embed"></iframe><br />
             </div> 
           </div>  
           <div class="clear"></div> 
